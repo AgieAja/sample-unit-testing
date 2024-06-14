@@ -1,4 +1,4 @@
-module mocking
+module sample-unit-testing
 
 go 1.21.5
 
